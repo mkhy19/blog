@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Mohamed
+name: Mohamed Khaled Yousef
 
 # Short bio or description (displayed in the header)
 description: Front End Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/14186989?s=460&v=4
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: mohamedkhaledyousef
   instagram: mohamed_khaled_yousef
-  linkedin: in/mohamed-khaled-yousef-421081a5
+  linkedin: mohamed-khaled-yousef-421081a5
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: mkhy7
