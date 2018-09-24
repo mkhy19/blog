@@ -3,13 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Front End Developer and Computer science student. I am interested in learning programming and technology. Also I am interested in studying data structures and algorithms theory. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mkhy88519@gmail.com](mailto:email@domain.com)
