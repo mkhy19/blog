@@ -111,7 +111,7 @@ The second goal trezaguet got pelanty and salah score the second goal.
 
 Feel free to leave any comments or feedback. Thank you!
 
-{% if site.disqus.mkhy7 %}
-  {% include disqus_comments.html %}
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
 {% endif %}
 
