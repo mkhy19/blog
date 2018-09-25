@@ -1,5 +1,4 @@
 
-# Egypt in the World Cup'Russia 2018 with programming problem
 ![alt text](https://user-images.githubusercontent.com/14186989/31590095-fa875ef6-b20a-11e7-87c1-799746729668.jpg "Before One Hour")
 ### Yes Egypt in the World Cup
 Last Sunday, the Egyptian team beat the Congo and qualified to the 2018 World Cup after draw Ghana with Uganda 
@@ -101,8 +100,9 @@ Count how many goals Egyptian team can score when thay attack.
 1 1 1 1 y   
 
 **Sample Output**  
-3
+3  
 ___
+
 **Updates**
 
 Egypt won Congo 2-1 with the same way 
