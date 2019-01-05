@@ -1,5 +1,7 @@
 
 ## Binary search tree is a very common type of a tree used in computer science. 
+![Alt Stack](https://i.imgur.com/Po3en7B.png "trees 1")
+
 The binary search tree (BST) is defined by the fact that it's binary, so that means it has at most two children at each node. And we have the property that at the root node, the value of that root node is greater than or equal to all of the nodes in the left child, and it's less than the nodes in the right child.  
  ![Alt Stack](https://i.imgur.com/Iac1ASO.jpg "example")
 
