@@ -1,13 +1,12 @@
-![Alt Stack](https://i.imgur.com/nffQgQw.jpg "Object tracking - ")
-A month ago I am thinking about what to write in December and I decided that the best thing to close this year is the last thing I learned. So this is Computer Vision.  
-
+![Alt Stack](https://i.imgur.com/nffQgQw.jpg "Computer Vision")
 ## Object tracking is one of the most important components in numerous applications of computer vision and machine learning.
+
+A month ago I am thinking about what to write in December and I decided that the best thing to close this year is the last thing I learned. So this is Computer Vision. 
+
 ### Object Tracking is like you are spying or following an object or person or car to know the the location of the object and how this object is moving, its speed, where is it going and etc.
 
 **But before we start to talk about the theory and the implementation. I want to tell that after you read this blog, We are going to make like this video.**  
- <a href="https://www.youtube.com/watch?v=8Bk_I_H8GlQ
-" target="_blank"><img src="https://i.imgur.com/6LNfYaH.png" 
-alt="IMAGE ALT TEXT HERE" width="380" height="250" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=8Bk_I_H8GlQ" target="_blank"><img src="https://i.imgur.com/6LNfYaH.png" alt="computer vision and machine learning" width="580" height="350" border="20" /></a>
 
 First, there is steps or stages to track an object:
 1. **Background:** is the image or the frame that have all the background without the object that we want to track.
