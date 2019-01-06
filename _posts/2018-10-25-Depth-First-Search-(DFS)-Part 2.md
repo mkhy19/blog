@@ -145,7 +145,7 @@ Well it's actually going to be **Les**, because we're not going to be able to pr
 **One thing to note about the recursive traversal is we do have sort of under the covers, a stack that's being used. Because in a recursive call, every time we make a call back to a procedure, we are invoking another frame on the stack. So we are saving implicitly our information of where we are on the stack.**
 
 Here is the code in C++
-```
+```C++
 void printPostorderTraversal(struct node* node)
 {
      if (node == NULL)
