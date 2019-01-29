@@ -22,12 +22,12 @@ footer-links:
   email: 
   facebook:
   flickr:
-  github: mohamedkhaledyousef
-  instagram: mohamed_khaled_yousef
+  github: mkhy19
+  instagram: mkhy_19
   linkedin: mohamed-khaled-yousef-421081a5
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: mkhy7
+  twitter: mkhy19
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -39,7 +39,7 @@ footer-links:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: mkhy7  
+    shortname: mkhy19  
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
